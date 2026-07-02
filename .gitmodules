@@ -1,9 +1,9 @@
 [submodule "glaze_daemon"]
 	path = glaze_daemon
-	url = https://github.com/cacticouncil/glaze_daemon.git
+	url = https://github.com/daphnecalin/glaze_daemon.git
 [submodule "glazer_admin"]
 	path = glazer_admin
-	url = https://github.com/cacticouncil/glazer_admin
+	url = https://github.com/daphnecalin/glazer_admin.git
 [submodule "glazy_app"]
 	path = glazy_app
-	url = https://github.com/cacticouncil/glazy_app
+	url = https://github.com/daphnecalin/glazy_app.git
